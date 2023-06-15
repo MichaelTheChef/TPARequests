@@ -1,0 +1,11 @@
+name: TPATest
+version: '${project.version}'
+main: me.mio.tpatest.TPATest
+api-version: 1.19
+commands:
+  tpa:
+    description: TPA Command
+  tpaccept:
+    description: TPA Accept
+  tpdeny:
+    description: TPA Deny
